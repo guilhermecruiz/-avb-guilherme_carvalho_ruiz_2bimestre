@@ -14,7 +14,7 @@ export function cn(...inputs: ClassValue[]) {
 /**
  * Essa função capitaliza a primeira letra de uma string.
  * @param str
- * @returns
+ * @returns String
  */
 export const capitalize = (str: string) =>
   str.charAt(0).toUpperCase() + str.slice(1);
