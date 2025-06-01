@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Essa uma aplica o web que lista Pokémons e permite que os usuários favoritem seus Pokémons.
+Essa uma aplicação web que lista Pokémons e permite que os usuários favoritem seus Pokémons.
 
 ## Funcionalidades
 
@@ -37,10 +37,10 @@ Essa uma aplica o web que lista Pokémons e permite que os usuários favoritem s
 
 ## Como contribuir
 
-1. Fa a um fork do reposit rio
-2. Crie uma branch com a sua altera o
-3. Fa a commit com a altera o
-4. Fa a um pull request para o reposit rio principal
+1. Faça um fork do reposit rio
+2. Crie uma branch com a sua alteração
+3. Faça commit com a alteração
+4. Faça um pull request paração repositório principal
 
 ## License
 
